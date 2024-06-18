@@ -184,12 +184,21 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/enlia">
+                    <img src="https://avatars.githubusercontent.com/u/101929720?v=4" width="100;" alt="enlia"/>
+                    <br />
+                    <sub><b>enlia</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Hiro-Lin">
                     <img src="https://avatars.githubusercontent.com/u/40111864?v=4" width="100;" alt="Hiro-Lin"/>
                     <br />
                     <sub><b>HIRO</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/PeanutSplash">
                     <img src="https://avatars.githubusercontent.com/u/98582625?v=4" width="100;" alt="PeanutSplash"/>
@@ -197,8 +206,6 @@
                     <sub><b>PeanutSplash</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Ermeng98">
                     <img src="https://avatars.githubusercontent.com/u/55784769?v=4" width="100;" alt="Ermeng98"/>
@@ -214,10 +221,10 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/henryhyn">
-                    <img src="https://avatars.githubusercontent.com/u/5162443?v=4" width="100;" alt="henryhyn"/>
+                <a href="https://github.com/jayeeliu">
+                    <img src="https://avatars.githubusercontent.com/u/77389?v=4" width="100;" alt="jayeeliu"/>
                     <br />
-                    <sub><b>Henry He</b></sub>
+                    <sub><b>jayeeliu</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -228,12 +235,14 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/jayeeliu">
-                    <img src="https://avatars.githubusercontent.com/u/77389?v=4" width="100;" alt="jayeeliu"/>
+                <a href="https://github.com/henryhyn">
+                    <img src="https://avatars.githubusercontent.com/u/5162443?v=4" width="100;" alt="henryhyn"/>
                     <br />
-                    <sub><b>jayeeliu</b></sub>
+                    <sub><b>Henry He</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/ZuWard">
                     <img src="https://avatars.githubusercontent.com/u/38209256?v=4" width="100;" alt="ZuWard"/>
@@ -241,8 +250,6 @@
                     <sub><b>ZuWard</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Zzendrix">
                     <img src="https://avatars.githubusercontent.com/u/154900254?v=4" width="100;" alt="Zzendrix"/>
@@ -278,6 +285,8 @@
                     <sub><b>Martin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/zhihuiio">
                     <img src="https://avatars.githubusercontent.com/u/165655688?v=4" width="100;" alt="zhihuiio"/>
@@ -285,8 +294,6 @@
                     <sub><b>zhihuiio</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/renaissancezyc">
                     <img src="https://avatars.githubusercontent.com/u/118403818?v=4" width="100;" alt="renaissancezyc"/>
@@ -322,6 +329,8 @@
                     <sub><b>Klu5ure</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/keeper-jie">
                     <img src="https://avatars.githubusercontent.com/u/33612777?v=4" width="100;" alt="keeper-jie"/>
@@ -329,8 +338,6 @@
                     <sub><b>Kermit</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/kexinoh">
                     <img src="https://avatars.githubusercontent.com/u/91727108?v=4" width="100;" alt="kexinoh"/>
